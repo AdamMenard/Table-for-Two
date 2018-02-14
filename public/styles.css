@@ -1,0 +1,15 @@
+header{
+  text-align: center;
+  font-size: 56px;
+  color:white;
+  margin-bottom: auto;
+}
+ body{
+background-image: url("images/speed-dating.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+}
+form{
+  text-align: center;
+  text-decoration: none;
+}
