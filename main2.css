@@ -1,0 +1,16 @@
+.profileForm {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  width:50%;
+}
+
+.nameField {
+  display: flex;
+  flex-direction: row;
+}
+
+.genderSelect {
+  display: flex;
+  flex-direction: row;
+}
