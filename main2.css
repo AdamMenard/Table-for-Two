@@ -10,7 +10,21 @@
   flex-direction: row;
 }
 
-.genderSelect {
+/*.genderSelect {
   display: flex;
   flex-direction: row;
+}*/
+
+button {
+  border:none;
+  border-radius: 1em;
+  background-color: green;
+  color: white;
+  height: 4em;
+  width: 6em;
+}
+
+button a {
+    text-decoration:  none;
+    color: white
 }
